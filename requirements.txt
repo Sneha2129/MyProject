@@ -1,4 +1,4 @@
 requests==2.25.1
 pytz==2019.3
-sudo apt install python3-tk
+Tkinter==8.6.12
 sqlite3
