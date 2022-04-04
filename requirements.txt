@@ -1,4 +1,4 @@
 requests==2.25.1
 pytz==2019.3
-tkinter==3.8
+apt install python3-tk
 sqlite3
