@@ -1,4 +1,4 @@
 requests==2.25.1
 pytz==2019.3
-tkinter==8.6.12
+tkinter==8.6.10
 sqlite3
